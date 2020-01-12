@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueprintBreakdown", "BlueprintBreakdown\BlueprintBreakdown.csproj", "{77C21161-DBC0-4129-8A08-477DCB970406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C21161-DBC0-4129-8A08-477DCB970406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C21161-DBC0-4129-8A08-477DCB970406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C21161-DBC0-4129-8A08-477DCB970406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C21161-DBC0-4129-8A08-477DCB970406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86A9869-EBD7-4CA9-AF2F-B5CB96599FD1}
+	EndGlobalSection
+EndGlobal
