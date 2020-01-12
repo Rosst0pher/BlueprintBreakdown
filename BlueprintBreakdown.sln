@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{829C0A9A-C629-4FEB-8D5F-A87CB6EC8BE2}"
 	ProjectSection(SolutionItems) = preProject
 		bpd.exe = bpd.exe
+		licence.txt = licence.txt
 	EndProjectSection
 EndProject
 Global
