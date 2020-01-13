@@ -3,7 +3,7 @@
 
 Ever wondered what your oversized spaceship you built in creative mode might require to build in survival?
 
-Blueprint Breakdown (**BPD**) is a minimal tool that lists a breakdown of blocks, components and resources that makes up a Space Engineers blueprint. **BPD** currently only supports vanilla blocks/components so experiences will vary with blueprints using mod content from the Steam Workshop.
+Blueprint Breakdown (**BPD**) is a minimal tool that lists a breakdown of blocks, components and resources that makes up a Space Engineers blueprint. **BPD** currently only supports vanilla blocks/components so your mileage may vary with blueprints using mod content from the Steam Workshop.
 
 [Binary Download](https://github.com/DangerRoss/BlueprintBreakdown/raw/master/bpd.exe)
 
